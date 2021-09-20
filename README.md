@@ -1,2 +1,4 @@
 # Casette Blog Backend
-This is my new backend
+
+View the frontend (public site): https://github.com/angnicholas/casette-public/  
+View the frontend (admin panel): https://github.com/angnicholas/casette-admin
